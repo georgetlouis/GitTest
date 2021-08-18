@@ -1,6 +1,6 @@
 Name GTL
 Rol No:27
-Place:Alpy
+Place:Alpys
 
 user.name=GeorgeTL
 user.email=georgetlouis@gmail.com
